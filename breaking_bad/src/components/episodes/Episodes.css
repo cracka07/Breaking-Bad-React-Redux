@@ -1,0 +1,10 @@
+.box_episode {
+    /* Asignamos una altura mínima */
+    min-height: 609px;
+    
+    background-image: url('../img/breaking-bad-2.jpg');
+   
+    background-position: center;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+  }

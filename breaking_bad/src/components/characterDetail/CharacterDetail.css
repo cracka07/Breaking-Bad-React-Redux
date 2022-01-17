@@ -1,0 +1,42 @@
+.img_img{
+    width: 100%;
+   
+}
+
+
+.box_table_detail{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10%;
+   
+}
+
+
+ td{
+    width: 15rem;
+    height: 5rem;
+    font-size:21px;
+   
+}
+th{
+   font-size:21px;
+   background-color: green;
+}
+
+.box_table_detail table{
+    background-color: rgb(38, 39, 38);
+    
+ }
+
+
+.box_detail {
+    /* Asignamos una altura mínima */
+    min-height: 608px;
+    
+    background-image: url('../img/url.jpeg');
+   
+    background-position: center;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+  }
