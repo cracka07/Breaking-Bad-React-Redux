@@ -35,9 +35,10 @@ export function getEpisodes(){
         .then(json=>dispatch({type:GET_EPISODES,payload:json}))
     }
 }
-export function emptyCharacter(name){
-    return {
-        type:EMPTY_CHARACTER
+export function empty_character(name){
+    return function(dispatch){
+           dispatch({type:EMPTY_CHARACTER})
     }
-}
+    }
+
 
