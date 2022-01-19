@@ -53,7 +53,7 @@ function mapStateToProps(state){
 }
 function mapDispatchToProps(dispatch){
     return{
-        emptyCharacter: ()=>dispatch(emptyCharacter()),
+        emptyCharacter: ()=>dispatch(empty_character()),
         getCharacterDetail: (entry)=>dispatch(addCharacterDetail(entry))
     }
 }
