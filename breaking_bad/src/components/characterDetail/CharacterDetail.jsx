@@ -1,6 +1,6 @@
 import React,{useState,useEffect} from 'react'
 import { connect } from 'react-redux'
-import { addCharacterDetail, emptyCharacter } from '../../actions'
+import { addCharacterDetail, emptyCharacter, empty_character } from '../../actions'
 import { useParams } from 'react-router-dom'
 import "./CharacterDetail.css"
 import Spinner from '../../spinner'
