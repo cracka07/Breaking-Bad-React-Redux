@@ -4,6 +4,9 @@
 
 ### El principal objetivo de ese Link es mostrar en forma aleatorio, alguna cita de la serie dicho por ese personaje.
 
+![BREAKING BAD GITHUB](https://user-images.githubusercontent.com/39442992/177017743-a9917fe3-93b5-4622-b463-f893ad2c66ad.png)
+
+
 ## Characters - Seach Bar
 
 ###  En primer lugar se listan todos los personajes de la serie.
