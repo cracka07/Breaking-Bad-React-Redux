@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Breaking-Bad-React-Redux/static/css/main.95ab2f43.css",
+    "main.js": "/Breaking-Bad-React-Redux/static/js/main.d93539e0.js",
+    "static/media/breaking-bad-2.jpg": "/Breaking-Bad-React-Redux/static/media/breaking-bad-2.9ad157af67c57cc841a1.jpg",
+    "static/media/url.jpeg": "/Breaking-Bad-React-Redux/static/media/url.519ccd21562ed2211bd0.jpeg",
+    "static/media/quimica.jpg": "/Breaking-Bad-React-Redux/static/media/quimica.e8e2cb4c2e088e8110c0.jpg",
+    "index.html": "/Breaking-Bad-React-Redux/index.html",
+    "main.95ab2f43.css.map": "/Breaking-Bad-React-Redux/static/css/main.95ab2f43.css.map",
+    "main.d93539e0.js.map": "/Breaking-Bad-React-Redux/static/js/main.d93539e0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.95ab2f43.css",
+    "static/js/main.d93539e0.js"
+  ]
+}
