@@ -16,3 +16,11 @@
 # Episodes List
 
 ##  La página despliega  la lista de episodios de la serie como asi también , temporada , personajes por temporada, etc... en formato tabla.
+
+
+## Cómo iniciar el servidor 
+
+### abrir la terminal
+### posicionarse sobre la carpeta en donde se haya clonado el repo
+### npm start
+
