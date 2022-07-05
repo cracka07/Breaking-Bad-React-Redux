@@ -20,7 +20,7 @@
 
 ## Cómo iniciar el servidor 
 
-### abrir la terminal
-### posicionarse sobre la carpeta en donde se haya clonado el repo
-### npm start
+ abrir la terminal
+ posicionarse sobre la carpeta en donde se haya clonado el repo
+ npm start
 
